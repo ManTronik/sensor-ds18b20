@@ -12,9 +12,13 @@ git repository : https://github.com/ManTronik/sensor-ds18b20.git
  1 x LCD Nokia 5110 ( https://www.amazon.fr/gp/product/B07CYZYF3Y/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1 ) 
  1 x lipo 3,7v 650 Mah battery 
 
-2) PCB devellopped on seeedstudio.com
+2) PCB designed with Kicad 
 
-3) box designed with Inskcape + LaserCut Box extension
+3) PCB devellopped on seeedstudio.com
+
+4) box designed with Inskcape + LaserCut Box extension
  Plexiglass PMMA 3mm 
  Amazon.fr reference https://www.amazon.fr/gp/product/B00ARJPUA4/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1https://www.amazon.fr/gp/product/B00ARJPUA4/
  
+ 
+
